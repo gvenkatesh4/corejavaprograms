@@ -1,0 +1,7 @@
+Product [id=101, weight=150, price=500]
+Product [id=102, weight=200, price=500]
+Product [id=103, weight=200, price=500]
+Product [id=104, weight=200, price=500]
+Product [id=102, weight=200, price=500]
+Product [id=103, weight=200, price=500]
+Product [id=104, weight=200, price=500]
